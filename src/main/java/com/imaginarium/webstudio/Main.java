@@ -25,16 +25,6 @@ public class Main {
         FactorialSumm factorialSumm = new FactorialSumm();
         System.out.println(factorialSumm.getFactorialSumm(100));
 
-
-
-
-
-
-
-
     }
-
-
-
 
 }
